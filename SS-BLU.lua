@@ -1,0 +1,6 @@
+  ["SS-BLU1"] = {"BLU Classic Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/nNQRvxYq/1.png' >"},
+  ["SS-BLU2"] = {"BLU Tuti Fruti Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/cXx9pcCD/2.png' width='100' height='50' >"},
+  ["SS-BLU3"] = {"BLU Mojito Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/2BcKsW9/3.png' width='100' height='50' >"},
+  ["SS-BLU4"] = {"BLU Marshmello Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/Tq7wFPGx/4.png' width='100' height='50' >"},
+  ["SS-BLU5"] = {"BLU Sugar Free Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/hJhm0PVd/5.png' width='100' height='50' >"},
+  ["SS-BLU6"] = {"BLU Day Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/nqZGMCsP/6.png' width='100' height='50' >"},

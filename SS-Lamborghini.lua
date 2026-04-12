@@ -1,0 +1,18 @@
+  ["SS-Lamborghini"] = { 
+    _config = {vtype="car",blipid=357,blipcolor=77},
+
+  ["SS-LamboX1"] = {"Lamborghini Huracán 2017", 3000000, "<img class='CarImg' src='https://i.ibb.co/gbb1z5p7/SS-Lambo-X1.png' width='100' height='50' >"},
+  ["SS-LamboX2"] = {"Lamborghini Huracán EVO Spyder 2020", 6000000, "<img class='CarImg' src='https://i.ibb.co/RGLmRTQG/SS-Lambo-X2.png' width='100' height='50' >"},
+  ["SS-LamboX3"] = {"Lamborghini Urus 2025", 2400000, "<img class='CarImg' src='https://i.ibb.co/PG96QjpQ/SS-Lambo-X3.png' width='100' height='50' >"},
+  ["SS-LamboX4"] = {"Lamborghini Huracán EVO 2019", 1800000, "<img class='CarImg' src='https://i.ibb.co/MywqhcRp/SS-Lambo-X4.png' width='100' height='50' >"},
+  ["SS-LamboX5"] = {"Lamborghini Sesto Elemento 2011", 1700000, "<img class='CarImg' src='https://i.ibb.co/DfHCBtGf/SS-Lambo-X5.png' width='100' height='50' >"},
+  ["SS-LamboX6"] = {"Lamborghini Gallardo Spyder 2010", 1400000, "<img class='CarImg' src='https://i.ibb.co/wNnyJW70/SS-Lambo-X6.png' width='100' height='50' >"},
+  ["SS-LamboX7"] = {"Lamborghini Murciélago SV 2010", 1200000, "<img class='CarImg' src='https://i.ibb.co/21ncHGPy/SS-Lambo-X7.png' width='100' height='50' >"},
+  ["SS-LamboX8"] = {"Lamborghini Aventador 2016", 2800000, "<img class='CarImg' src='https://i.ibb.co/LzNpvHd2/SS-Lambo-X8.png' width='100' height='50' >"},
+  ["SS-LamboX9"] = {"Lamborghini Veneno 2013", 1900000, "<img class='CarImg' src='https://i.ibb.co/0bR6ycT/SS-Lambo-X9.png' width='100' height='50' >"},
+  ["SS-LamboX10"] = {"Lamborghini Aventador SVJ Roadster 2020", 1100000, "<img class='CarImg' src='https://i.ibb.co/wZXTfjX7/SS-Lambo-X10.png' width='100' height='50' >"},
+  ["SS-LamboX11"] = {"Lamborghini Urus 2021", 1500000, "<img class='CarImg' src='https://i.ibb.co/x0L05ts/SS-Lambo-X11.png' width='100' height='50' >"},
+  ["SS-LamboX12"] = {"Lamborghini Huracán EVO 2019", 900000, "<img class='CarImg' src='https://i.ibb.co/PZ7LvwGm/SS-Lambo-X12.png' width='100' height='50' >"},
+  ["SS-LamboX13"] = {"Lamborghini Sesto Elemento 2011", 700000, "<img class='CarImg' src='https://i.ibb.co/yByMhyrt/SS-Lambo-X13.png' width='100' height='50' >"},
+  ["SS-LamboX14"] = {"Lamborghini Sián FKP 37 2020", 1360000, "<img class='CarImg' src='https://i.ibb.co/Y4sHb1VV/SS-Lambo-X14.png' width='100' height='50' >"},
+},
