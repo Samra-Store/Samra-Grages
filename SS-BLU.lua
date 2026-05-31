@@ -7,5 +7,9 @@
   ["SS-BLU4"] = {"BLU Marshmello Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/Tq7wFPGx/4.png' width='100' height='50' >"},
   ["SS-BLU5"] = {"BLU Sugar Free Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/hJhm0PVd/5.png' width='100' height='50' >"},
   ["SS-BLU6"] = {"BLU Day Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/nqZGMCsP/6.png' width='100' height='50' >"},
+  ["SS-BLU7"] = {"Mitsubishi L200 BLUE Edition", 200000, "<img class='CarImg' src='https://i.ibb.co/fGZrc44Y/image2.png' width='100' height='50' >"},
+  ["SS-BLU8"] = {"Trailer BLU Edition 1", 200000, "<img class='CarImg' src='https://i.ibb.co/vtCBwW6/image3.png' width='100' height='50' >"},
+  ["SS-BLU9"] = {"Trailer BLU Edition 2", 200000, "<img class='CarImg' src='https://i.ibb.co/TMPG5fBK/4.png' width='100' height='50' >"},
+  ["SS-BLU10"] = {"Mercedes Sprinter 2022 BLU Edition", 200000, "<img class='CarImg' src='https://i.ibb.co/wNv5xTj9/image.png' width='100' height='50' >"},      
 
 },
