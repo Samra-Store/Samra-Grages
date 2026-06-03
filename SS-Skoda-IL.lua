@@ -1,0 +1,15 @@
+  ["SS-SkodaV1"] = { 
+    _config = {vtype="car",blipid=357,blipcolor=77},
+
+  ["SS-10RimshVRS-IL"] = {"Skoda Octavia ( Rimsh ) 2010", 105000, "<img class='CarImg' src='https://i.ibb.co/svCFhs7w/1.png' width='100' height='50' >"},
+  ["SS-18OctaviaVRS-IL"] = {"Skoda Octavia VRS 2018", 105000, "<img class='CarImg' src='https://i.ibb.co/jvJ7cdJs/2.png' width='100' height='50' >"},
+  ["SS-23KodiaqVRS-IL"] = {"Skoda Kodiaq VRS 2023", 105000, "<img class='CarImg' src='https://i.ibb.co/bRXsLsPN/3.png' width='100' height='50' >"},
+  ["SS-23Octavia-IL"] = {"Skoda Octavia Style 2023", 105000, "<img class='CarImg' src='https://i.ibb.co/pqDW1HD/555.png' width='100' height='50' >"},
+  ["SS-24OctaviaSelection-IL"] = {"Skoda Octavia Selection 2024", 105000, "<img class='CarImg' src='https://i.ibb.co/7x7D5QTs/666.png' width='100' height='50' >"},
+  ["SS-24OctaviaSL-IL"] = {"Skoda Octavia Sport Line 2026", 105000, "<img class='CarImg' src='https://i.ibb.co/6JvggfgY/6.png' width='100' height='50' >"},
+  ["SS-24OctaviaSOSO-IL"] = {"Skoda Octavia Sport Line 2026 SOSO", 105000, "<img class='CarImg' src='https://i.ibb.co/Y4zQBmTc/7.png' width='100' height='50' >"},
+  ["SS-25SuperbSportLine-IL"] = {"Skoda Superb Sport Line 2026", 105000, "<img class='CarImg' src='https://i.ibb.co/bMTGbzGg/8.png' width='100' height='50' >"},
+  ["SS-26Kodiaq-IL"] = {"Skoda Kodiaq 2026", 105000, "<img class='CarImg' src='https://i.ibb.co/9dRN1dJ/9.png' width='100' height='50' >"},
+  ["SS-24OctaviaSlWagon-IL"] = {"Skoda Octavia Sport Line Wagon 2026", 105000, "<img class='CarImg' src='https://i.ibb.co/chGmqTkq/11.png' width='100' height='50' >"},
+  ["SS-25SuperbWagon-IL"] = {"Skoda Superb Sport Line Wagon 2026  ", 105000, "<img class='CarImg' src='https://i.ibb.co/vCRPXyxY/10.png' width='100' height='50' >"},
+},
