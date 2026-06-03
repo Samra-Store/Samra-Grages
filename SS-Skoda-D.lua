@@ -1,0 +1,15 @@
+  ["SS-SkadaV1"] = { 
+    _config = {vtype="car",blipid=357,blipcolor=77},
+
+  ["SS-10RimshVRS-D"] = {"Skada Octmvia ( Rimsh ) 2010", 105000, "<img class='CarImg' src='https://i.ibb.co/Q32Sr2k5/1.png' width='100' height='50' >"},
+  ["SS-18OctaviaVRS-D"] = {"Skada Octmvia VRS 2018", 105000, "<img class='CarImg' src='https://i.ibb.co/23xXjYRh/2.png' width='100' height='50' >"},
+  ["SS-23KodiaqVRS-D"] = {"Skada Kodmaq VRS 2023", 105000, "<img class='CarImg' src='https://i.ibb.co/W40NZTPg/3.png' width='100' height='50' >"},
+  ["SS-23Octavia-D"] = {"Skada Octmvia Style 2023", 105000, "<img class='CarImg' src='https://i.ibb.co/xS0DZZ6w/55.png' width='100' height='50' >"},
+  ["SS-24OctaviaSelection-D"] = {"Skada Octmvia Selection 2024", 105000, "<img class='CarImg' src='https://i.ibb.co/BV6rYRXN/66.png' width='100' height='50' >"},
+  ["SS-24OctaviaSL-D"] = {"Skada Octmvia Sport Line 2026", 105000, "<img class='CarImg' src='https://i.ibb.co/xKNRL2B3/6.png' width='100' height='50' >"},
+  ["SS-24OctaviaSOSO-D"] = {"Skada Octmvia Sport Line 2026 SOSO", 105000, "<img class='CarImg' src='https://i.ibb.co/Dcs4xZC/7.png' width='100' height='50' >"},
+  ["SS-25SuperbSportLine-D"] = {"Skada Super Sport Line 2026", 105000, "<img class='CarImg' src='https://i.ibb.co/JRVqH7Y8/8.png' width='100' height='50' >"},
+  ["SS-26Kodiaq-D"] = {"Skada Kodmaq 2026", 105000, "<img class='CarImg' src='https://i.ibb.co/yF39dVdL/9.png' width='100' height='50' >"},
+  ["SS-24OctaviaSlWagon-D"] = {"Skada Octmvia Sport Line Wagon 2026", 105000, "<img class='CarImg' src='https://i.ibb.co/JjXh36VW/11.png' width='100' height='50' >"},
+  ["SS-25SuperbWagon-D"] = {"Skada Super Sport Line Wagon 2026  ", 105000, "<img class='CarImg' src='https://i.ibb.co/hxjdrfk7/10.png' width='100' height='50' >"},
+},
