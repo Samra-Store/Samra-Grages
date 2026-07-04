@@ -1,5 +1,5 @@
   ["SS-FbiPS"] = { 
-    _config = {vtype="car",blipid=357,blipcolor=77},
+    _config = {vtype="car",blipid=357,blipcolor=77,permissions={"fbi.garage"}},  --<<<<-- برمشن الكراج 
 
   ["SS-FbiPS1"] = {"PS - FBI 1", 0, "<img class='CarImg' src='https://i.ibb.co/4gNtm8sD/1.png' width='100' height='50' >"},
   ["SS-FbiPS2"] = {"PS - FBI 2", 0, "<img class='CarImg' src='https://i.ibb.co/6JYWzXGr/2.png' width='100' height='50' >"},
