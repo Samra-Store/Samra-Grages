@@ -1,7 +1,7 @@
   ["SS-BLU"] = { 
     _config = {vtype="car",blipid=357,blipcolor=77},
 
-  ["SS-BLU1"] = {"BLU Classic Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/nNQRvxYq/1.png' >"},
+  ["SS-BLU1"] = {"BLU Classic Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/nNQRvxYq/1.png' width='100' height='50' >"},
   ["SS-BLU2"] = {"BLU Tuti Fruti Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/cXx9pcCD/2.png' width='100' height='50' >"},
   ["SS-BLU3"] = {"BLU Mojito Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/2BcKsW9/3.png' width='100' height='50' >"},
   ["SS-BLU4"] = {"BLU Marshmello Taste", 150000, "<img class='CarImg' src='https://i.ibb.co/Tq7wFPGx/4.png' width='100' height='50' >"},
