@@ -1,0 +1,20 @@
+  ["SS-PoliceIL"] = { 
+    _config = {vtype="car",blipid=357,blipcolor=77},
+
+["SS-PoliceIL1-D"] = {"Police 1", 0, "<img class='CarImg' src='https://i.ibb.co/r2jnhyN8/1.png' width='100' height='50' >"},
+["SS-PoliceIL2-D"] = {"Police 2", 0, "<img class='CarImg' src='https://i.ibb.co/NdJPQk99/2.png' width='100' height='50' >"},
+["SS-PoliceIL3-D"] = {"Police 3", 0, "<img class='CarImg' src='https://i.ibb.co/1GCxWtcN/3.png' width='100' height='50' >"},
+["SS-PoliceIL4-D"] = {"Police 4", 0, "<img class='CarImg' src='https://i.ibb.co/MXPMWCB/4.png' width='100' height='50' >"},
+["SS-PoliceIL5-D"] = {"Police 5", 0, "<img class='CarImg' src='https://i.ibb.co/B5ykpJGc/5.png' width='100' height='50' >"},
+["SS-PoliceIL6-D"] = {"Police 6", 0, "<img class='CarImg' src='https://i.ibb.co/KcjpMBkK/6.png' width='100' height='50' >"},
+["SS-PoliceIL7-D"] = {"Police 7", 0, "<img class='CarImg' src='https://i.ibb.co/Y4D2pnVx/7.png' width='100' height='50' >"},
+["SS-PoliceIL8-D"] = {"Police 8", 0, "<img class='CarImg' src='https://i.ibb.co/9kRR0h57/8.png' width='100' height='50' >"},
+["SS-PoliceIL9-D"] = {"Police 9", 0, "<img class='CarImg' src='https://i.ibb.co/0y6xJZzN/9.png' width='100' height='50' >"},
+["SS-PoliceIL10-D"] = {"Police 10", 0, "<img class='CarImg' src='https://i.ibb.co/2YyDFkc8/10.png' width='100' height='50' >"},
+["SS-PoliceIL11-D"] = {"Police 11", 0, "<img class='CarImg' src='https://i.ibb.co/CsmMrZWj/11.png' width='100' height='50' >"},
+["SS-PoliceIL12-D"] = {"Police 12", 0, "<img class='CarImg' src='https://i.ibb.co/C5p84gcN/12.png' width='100' height='50' >"},
+["SS-PoliceIL13-D"] = {"Police 13", 0, "<img class='CarImg' src='https://i.ibb.co/JWh5KL0z/13.png' width='100' height='50' >"},
+["SS-PoliceIL14-D"] = {"Police 14", 0, "<img class='CarImg' src='https://i.ibb.co/7d3BjShW/14.png' width='100' height='50' >"},
+["SS-PoliceIL15-D"] = {"Police 15", 0, "<img class='CarImg' src='https://i.ibb.co/4RX5sBLk/15.png' width='100' height='50' >"},
+
+    },
